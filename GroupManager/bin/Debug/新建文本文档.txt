@@ -1,0 +1,117 @@
+{
+    "admin_auth": [
+        {
+            "nick": "神崎?H?亚里亚",
+            "oper": 1,
+            "owner": 1,
+            "uin": 656469762
+        },
+        {
+            "nick": "Sora",
+            "oper": 1,
+            "uin": 1936945891
+        }
+    ],
+    "aio_tabs": {
+        "sel_id": 1,
+        "tabs": [
+            {
+                "id": 0,
+                "is_new": 0,
+                "url": "http://app.qun.qq.com/aio/applist.html",
+                "wording": "应用"
+            },
+            {
+                "id": 1,
+                "is_new": 0,
+                "url": "http://qqweb.qq.com/qunactivity/index.html?from=aiotab",
+                "wording": "活动"
+            },
+            {
+                "id": 2,
+                "is_new": 0,
+                "url": "http://ke.qq.com/app/subscribe/index.html",
+                "wording": "课程"
+            },
+            {
+                "id": 3,
+                "is_new": 0,
+                "url": "http://tiantian.qq.com/qiqiclient/qiqiapp.html",
+                "wording": "直播"
+            },
+            {
+                "id": 4,
+                "is_new": 1,
+                "url": "http://ke.qq.com/mobile/homework/appLoad.html",
+                "wording": "作业"
+            }
+        ]
+    },
+    "album": 0,
+    "anony": {
+        "value": 1
+    },
+    "app_privilege_flag": 67633344,
+    "conf_group": 0,
+    "ec": 0,
+    "file": 0,
+    "forbid_chat": 0,
+    "forbid_discuss": 0,
+    "invite_friend": 3,
+    "invite_only": 0,
+    "levelflag": 0,
+    "levelname": {
+        "lvln1": "潜水",
+        "lvln10": "一见倾心",
+        "lvln101": "LV.1",
+        "lvln102": "LV.2",
+        "lvln103": "LV.3",
+        "lvln104": "LV.4",
+        "lvln105": "LV.5",
+        "lvln106": "LV.6",
+        "lvln107": "LV.7",
+        "lvln108": "LV.8",
+        "lvln109": "LV.9",
+        "lvln11": "超凡脱俗",
+        "lvln110": "LV.10",
+        "lvln111": "LV.11",
+        "lvln112": "LV.12",
+        "lvln113": "LV.13",
+        "lvln114": "LV.14",
+        "lvln115": "LV.15",
+        "lvln116": "LV.16",
+        "lvln117": "LV.17",
+        "lvln118": "LV.18",
+        "lvln12": "风华绝代",
+        "lvln13": "崭露头角",
+        "lvln14": "金玉满堂",
+        "lvln15": "富甲一方",
+        "lvln197": "小酋长",
+        "lvln198": "大酋长",
+        "lvln199": "首席酋长",
+        "lvln2": "冒泡",
+        "lvln3": "吐槽",
+        "lvln4": "活跃",
+        "lvln5": "话唠",
+        "lvln6": "传说"
+    },
+    "member": 1,
+    "open": 0,
+    "owner": 0,
+    "search": 0,
+    "search_switch": 0,
+    "share": 0,
+    "shutup": {
+        "all_shutup": 0,
+        "list": [
+            {
+                "nick": "宮永咲",
+                "t": 2575055,
+                "uin": 179554882
+            }
+        ],
+        "me_shutup": 0
+    },
+    "speak": 0,
+    "sys_show": 1
+}
